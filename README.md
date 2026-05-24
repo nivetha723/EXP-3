@@ -1,5 +1,7 @@
 # EXP-3
-EXPT NO: 3				STAIR CASE WIRING                     
+EXPT NO: 3				STAIR CASE WIRING    
+## Name: Nivetha N
+## Reg.No:212225040290
 
  
 AIM
@@ -40,11 +42,19 @@ switch2.
 
 
 Direct connection: CIRCUIT DIAGRAM: 
+<img width="1052" height="401" alt="Screenshot 2026-05-24 150018" src="https://github.com/user-attachments/assets/07f2a3d3-d528-473d-9844-7770dd753b51" />
+
 Tabulation:1
+<img width="1045" height="655" alt="Screenshot 2026-05-24 150035" src="https://github.com/user-attachments/assets/0005ba29-045f-4de3-9644-bd5bc0aff38c" />
+
 	
 Cross connection: CIRCUIT DIAGRAM:
+<img width="1045" height="383" alt="Screenshot 2026-05-24 150048" src="https://github.com/user-attachments/assets/3cda1bb8-42a5-466f-b86e-b649bcf19c6e" />
+
 
 Tabulation:2
+<img width="1050" height="651" alt="Screenshot 2026-05-24 150101" src="https://github.com/user-attachments/assets/ec852840-162c-4619-b4f1-6b9b2b2a03b5" />
+
 
 RESULT:
 Thus the staircase wiring is connected and tested.
